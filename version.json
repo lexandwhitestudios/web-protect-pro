@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.0",
-  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/latest/download/WebStudio.Package_1.0.0.0_x64.msix",
-  "notes": "Initial release of Web Protect Pro.\n\n• Privacy-first browsing\n• Ad and tracker blocking\n• Multi-page browsing\n• Secure DNS options\n\nBuilt by Lex & White Studios."
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.1/WebStudio.Package_1.0.1.0_x64.msix",
+  "notes": "Web Protect Pro v1.0.1 - visual polish, improved icons, updated Settings and Privacy styling, address bar fix, theme improvements, and general refinements."
 }
