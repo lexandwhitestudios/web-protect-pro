@@ -1,1 +1,5 @@
-
+{
+  "version": "1.0.0.0",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/latest/download/WebStudio.Package_1.0.0.0_x64.msix",
+  "notes": "Initial public release."
+}
