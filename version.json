@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5.0",
-  "latest": "1.0.5.0",
-  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.5.0/WebStudio.Package_1.0.5.0_x64.msix",
-  "notes": "Fixed Privacy popup display issue where browser pages could show behind the Privacy panel; improved Settings and Privacy scrolling on smaller screens; added safer bottom spacing so controls are not hidden behind the taskbar or screen edge; and included general overlay polish."
+  "version": "1.0.6.0",
+  "latest": "1.0.6.0",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.6.0/WebStudio.Package_1.0.6.0_x64.msix",
+  "notes": "Improved the app update process so Web Protect Pro closes after launching the installer; added clearer restart guidance after updates; fixed stale update download links by refreshing update information before downloading; improved Check for Updates so it shows a clear result when the app is already up to date; and included general update reliability improvements."
 }
