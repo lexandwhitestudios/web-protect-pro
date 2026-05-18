@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4.0",
-  "latest": "1.0.4.0",
-  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.4.0/WebStudio.Package_1.0.4.0_x64.msix",
-  "notes": "Improved Settings scrolling on smaller screens, improved Privacy popup scrolling on smaller screens, added safer bottom spacing so controls are not hidden behind the taskbar or screen edge, and included general overlay polish."
+  "version": "1.0.5.0",
+  "latest": "1.0.5.0",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/download/v1.0.4.0/WebStudio.Package_1.0.5.0_x64.msix",
+  "notes": "Fixed Privacy popup display issue where browser pages could show behind the Privacy panel; improved Settings and Privacy scrolling on smaller screens; added safer bottom spacing so controls are not hidden behind the taskbar or screen edge; and included general overlay polish."
 }
