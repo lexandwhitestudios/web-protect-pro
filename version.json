@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7.0",
-  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/latest/download/WebStudio.Package_1.0.7.0_x64.msix",
-  "notes": "Web Protect Pro v1.0.7.0 includes updated icons, startup logo improvements, smoother Startup Screen behaviour, Balanced mode performance polish, clearer Site Compatibility wording, and final V1 polish."
+  "version": "1.0.8.0",
+  "downloadUrl": "https://github.com/lexandwhitestudios/web-protect-pro/releases/latest/download/WebStudio.Package_1.0.8.0_x64.msix",
+  "notes": "Web Protect Pro v1.0.8.0 improves Settings layout on smaller screens, shortens DNS Mode labels, tightens Smart Mode button sizing, improves pasted licence key cleanup, and verifies Azure family licence activation flow."
 }
