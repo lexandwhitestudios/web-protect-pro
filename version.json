@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15.0",
-  "downloadUrl": "https://download.lexandwhitestudios.com/windows/v1.0.15.0/WebStudio.Package_1.0.15.0_x64.msix",
-  "notes": "V1 polish update: added Gmail Web share option, improved email-app fallback when no mail app is installed, added top-bar Print access, and small release cleanup."
+  "version": "1.0.17.0",
+  "downloadUrl": "https://download.lexandwhitestudios.com/windows/v1.0.17.0/WebStudio.Package_1.0.17.0_x64.msix",
+  "notes": "Web Protect Pro v1.0.17.0 update."
 }
