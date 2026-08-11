@@ -1,2 +1,3 @@
-# web-protect-pro
-Web Protect Pro - Privacy-first browser by Lex &amp; White Studios
+# web-privacy-pro
+
+Web Privacy Pro - Privacy-first browser by Lex & White Studios
